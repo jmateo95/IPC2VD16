@@ -41,4 +41,17 @@ return x1;
         }
 return x1;
    }
+  public double Menor(double a, double b, double c) {
+        double x1 = 0;
+        if (a<b && a<c) {
+        x1=a;
+        }
+        if (b<a && b<c) {
+        x1=b;
+        }
+        if (c<a &&c<b) {
+        x1=c;
+        }
+return x1;
+   }
 }
