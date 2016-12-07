@@ -1,0 +1,12 @@
+¿Qué entiende como "commit"?
+ Es la carga de nueva informacion o funciones de un software a una version anterior estable del mismo software 
+por lo general son cambios no muy grandes.
+
+¿Qué entiende como "merge"?
+Obtener informacion de las ramas del software que se creo cuando ya esta terminado
+
+¿Cuál es la diferencia entre "Pull" y "Push"?
+En que con el Pull nosotros podemos descargar a nuestra computadora o servidor local cualquier commit que hayamos 
+cargado a github por algun problema de estabilidad. como regresar a una version anterior del software, y con el Push
+nosotros cargamos nueva informacion al software en la nuve, entiendo que una es basicamente para descargar versiones 
+antiguas del software y la otra para subir una nueva version o nuevos cambios en el software.
