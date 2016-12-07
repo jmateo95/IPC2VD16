@@ -261,7 +261,7 @@ jTextField5.setText("");
         jTextField4.setText("");
         Metodos f= new Metodos();
         jTextField4.setText("Mayor");
-        jTextField5.setText(""+f.Mayor(Double.parseDouble(jTextField1.getText()),Double.parseDouble(jTextField2.getText()) ,Double.parseDouble(jTextField3.getText())));
+        jTextField5.setText(""+f.Mayor(Double.parseDouble(jTextField1.getText()),Double.parseDouble(jTextField2.getText()) ,Double.parseDouble(jTextField3.getText()))+"_201313852");
 
 
 
