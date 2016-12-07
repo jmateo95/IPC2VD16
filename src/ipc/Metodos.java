@@ -27,4 +27,18 @@ return x1;
         x1= (((-1)*b)-sqrt((b*b)-4*a*c))/(2*a);
 return x1;
    }  
+  
+  public double Mayor(double a, double b, double c) {
+        double x1 = 0;
+        if (a>b && a>c) {
+        x1=a;
+        }
+        if (b>a && b>c) {
+        x1=b;
+        }
+        if (c>a &&c>b) {
+        x1=c;
+        }
+return x1;
+   }
 }
